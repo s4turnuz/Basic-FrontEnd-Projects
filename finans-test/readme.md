@@ -1,5 +1,5 @@
-# Fictional finance website images!
-## HTML5, CSS3, Bootstrap-5 only.
+## Fictional finance website images!
+### HTML5, CSS3, Bootstrap-5 only.
 
 <img src="img/img1.png">
 <img src="img/img2.png">
